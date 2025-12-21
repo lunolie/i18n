@@ -10,58 +10,58 @@
     "hero": {
       "texts": [
         {
-          "before": "",
-          "after": "でゲームを支配しよう"
+          "before": "ゲームを支配せよ",
+          "after": "。"
         },
         {
-          "before": "良すぎて競合が真似するほどの",
-          "after": ""
+          "before": "良すぎて競合が真似するほど。",
+          "after": "。"
         },
         {
-          "before": "オリジナル. 絶対. いつでも.",
-          "after": "."
+          "before": "唯一無二。絶対。いつでも。",
+          "after": "。"
         },
         {
-          "before": "",
-          "after": "があるのになんでコピーで妥協するんだ?"
+          "before": "なんで本物があるのに、コピー品で我慢するの？",
+          "after": "。"
         },
         {
-          "before": "真似されるのは一流の証だが本物は",
-          "after": ""
+          "before": "真似されるのは一流の証。<br />本物は更に上。",
+          "after": "。"
         }
       ],
       "brand": "Opal Client",
-      "description": "最高の体験を得られるように作られたMinecraftの便利mod。 OpalはFabricのMinecraft 1.21.10をサポートしていて、滑らかで楽しい体験を1.8と最新バージョンのサーバーどちらでも提供しています。",
+      "description": "最高の体験を得られるように作られたMinecraftの便利mod。 OpalはFabricのMinecraft 1.21.10に対応していて、滑らかで快適な体験を1.8と最新バージョンのサーバー両方で提供しています。",
       "purchase": "購入",
       "learnMore": "もっと見る"
     },
     "features": {
-      "title": "なぜOpalを選ぶの?",
-      "subtitle": "豊富な機能を備えていて、他のクライアントに戻りたくなくなるでしょう",
+      "title": "なぜOpalを選ぶの？",
+      "subtitle": "豊富な機能を備えていて、他のクライアントに戻りたくなくなるでしょう。",
       "items": {
         "abundant": {
           "title": "多彩な機能",
           "description": "Opalは膨大な数のモジュールとカスタマイズできる設定を備えています。"
         },
         "userFriendly": {
-          "title": "ユーザーフレンドリー",
-          "description": "Opalはシンプルで簡単に使えます。インストールしてそれで終わりです!"
+          "title": "使いやすさ",
+          "description": "Opalはシンプルで使いやすいように設計されています。インストールしてまじですぐ使えます"
         },
         "updates": {
-          "title": "定期的なアップデート",
-          "description": "私達は定期的なアップデートを提供し、新しい機能を使えるようにします。"
+          "title": "安定したアップデート",
+          "description": "新機能の最新情報をいち早くお届けするため、頻繁にアップデートしています"
         },
         "compatibility": {
           "title": "互換性",
-          "description": "OpalはWindows、macOS、Linuxで互換性の検証を行われました。"
+          "description": "OpalはWindows、macOS、Linuxで互換性のテストを実施済みです。"
         },
         "trusted": {
           "title": "コミュニティからの信頼",
-          "description": "Opalは他のクライアントで何年も経験がある主要な開発者たちに開発されています。"
+          "description": "Opalは長年Client開発に携わってきた一流の開発者によって開発されています。"
         },
         "quality": {
           "title": "最高級の品質",
-          "description": "私達はユーザーを大切にし、クライアントを可能な限り良くするためにすべく努めています。"
+          "description": "私達はユーザーを大切にし、クライアントを可能な限り良くするためにすべく務めています。"
         }
       }
     },
@@ -77,7 +77,7 @@
   "purchase": {
     "header": {
       "title": "お好みのエディションを選択してください",
-      "subtitle": "Opal単体か、それともTerminusを購入してOpalを無料で手に入れるか。"
+      "subtitle": "Opal単体？それともTerminusを購入してOpalを無料で手に入れる？"
     },
     "chinaBanner": {
       "text": "Are you in China? Purchase from our official resellers for better support and payment options.",
@@ -88,7 +88,7 @@
       "price": "8.99",
       "currency": "USD",
       "description": "必須のハイブリッドなマインクラフトの便利クライアント。洗練されていてかつ軽量で、未検知。",
-      "featuresTitle": "何がついてくる？",
+      "featuresTitle": "含まれる内容",
       "features": [
         "Opal Client (永久)",
         "全てのアップデート",
@@ -98,12 +98,12 @@
       "paymentMethods": "Card, Apple Pay, Google Pay, Klarna, CashApp, WeChat Pay"
     },
     "terminus": {
-      "badge": "最安の価格",
+      "badge": "最高のコスパ",
       "title": "Terminus: Minigame Edition",
       "price": "45.00",
       "currency": "USD",
-      "description": "究極のミニゲーム用クライアント。Opalクライアントが無料でついてきます。",
-      "featuresTitle": "何がついてくる？",
+      "description": "究極のミニゲーム用クライアント。Opalクライアントが無料で付属します。",
+      "featuresTitle": "含まれる内容",
       "features": [
         "Terminus: Minigame Edition (永久)",
         "無料のOpal Client (永久)",
@@ -119,19 +119,19 @@
       "description": "USDT、BTC、ETH、LTC、またはXMRでの支払いについては、Discordでチケットを開いてください。"
     },
     "resellers": {
-      "title": "公式再販業者",
-      "description": "信頼されているパートナーから地域に合わせた支払い方法とサポートででOpalを購入",
+      "title": "公式代理店",
+      "description": "信頼できるパートナーから地域に合わせた支払い方法とサポートでOpalを購入",
       "visit": "ストアを見る",
       "localized": {
-        "title": "グローバルな支払い方法",
-        "description": "地域別の価格設定や上記に記載されていない特定の支払い方法をお探しですか？公式再販業者が対応いたします。"
+        "title": "多様な決済方法が使えます",
+        "description": "地域別の価格設定や上記に記載されていない特定の支払い方法をお探しですか？公式代理店が対応いたします。"
       }
     },
     "upgrade": {
       "title": "もうOpalを持っている？",
-      "description": "たったの25.99USDでTerminusにアップグレードできます。詳細はチケットで"
+      "description": "たったの25.99USDでTerminusにアップグレードできます。詳細はチケットでご確認ください"
     },
-    "terms": "購入することで、利用規約に同意したものとみなされます。全ての販売は最終的です。"
+    "terms": "購入することで、利用規約に同意したものとみなされます。永久とは、製品が提供されている期間を意味します。"
   },
   "dashboard": {
     "title": "ダッシュボード",
@@ -140,7 +140,7 @@
       "home": "ホーム",
       "purchase": "購入",
       "discord": "Discord",
-      "docs": "ドキュメンテーション",
+      "docs": "説明書",
       "setup": "セットアップ",
       "configs": "コンフィグ",
       "changelog": "更新ログ",
@@ -160,7 +160,7 @@
     },
     "news": {
       "title": "ニュース",
-      "view": "見る",
+      "view": "表示",
       "empty": "現時点ではここに何もない。時間を開けてから確認してください！"
     },
     "downloads": {
@@ -183,29 +183,29 @@
     "access": {
       "title": "アクセス制御",
       "hwid": "ハードウェアID",
-      "lastChanged": "Last changed",
+      "lastChanged": "最終変更日",
       "ago": "前",
       "changeable": "30日ごとに更新可能",
       "reset": "リセット"
     },
     "docs": {
-      "title": "ドキュメンテーション",
-      "description": "Opalの使い方を学んで最高の可能性を引き出しましょう",
+      "title": "Opal虎の巻",
+      "description": "Opalを最大限に活用する方法",
       "nav": {
-        "setup": "セットアップ",
+        "setup": "初期設定",
         "modules": "機能"
       }
     },
     "setup": {
-      "title": "クライアントセットアップ",
-      "description": "指示に従ってOpalをあなたの機器で動かせるようにしましょう",
+      "title": "クライアント初期設定",
+      "description": "手順に従ってOpalをあなたの機器で起動できるようにしましょう",
       "instructions": {
-        "title": "セットアップの指示",
-        "description": "インストールするためのステップバイステップなガイド",
+        "title": "設定手順",
+        "description": "インストール手順",
         "step1": {
-          "title": "ランチャーのセットアップ",
-          "text": "{prismLink}をダウンロード、新しい1.21.10用{fabricLink}プロファイルを作って、 Fabric API modをインストールする",
-          "note": "独自のランチャーがリリースされるまではプリズムランチャーがおすすめです。"
+          "title": "ランチャーの初期設定",
+          "text": "prismLink} をダウンロードし、{fabricLink} で 1.21.10 用の新しいプロファイルを作成して、Fabric API Modをインストールしてください。",
+          "note": "独自のランチャーがリリースされるまではPrism Launcherがおすすめです。"
         },
         "step2": {
           "title": "Opalをダウンロード",
@@ -217,21 +217,21 @@
         },
         "step4": {
           "title": "起動",
-          "text": "Opalを起動する。Opalアカウントでのサインインが求められます。"
+          "text": "Opalを起動してください。Opalアカウントでのサインインが求められます。"
         }
       },
       "troubleshooting": {
         "title": "トラブルシューティング",
-        "description": "よくある問題は聞く前にここで確認してください",
+        "description": "よくある問題と、質問する前に確認すること",
         "checklist": {
           "title": "確認事項",
           "items": [
-            "ちゃんと指示に従った？",
-            "Prismランチャーをつかってる？",
-            "JVM引数は合っている？",
-            "システムの時間がずれていない？",
-            "VPNは無効化されている？/国を移動した？",
-            "ブロックされている特定の地域から接続している？(香港/中国)"
+            "セットアップ手順を正確に実行しましたか？",
+            "Prism Launcherを使用していますか？",
+            "正しいJVM引数が適用されていますか？",
+            "システムの時間は同期されていますか？",
+            "VPNがオフになった/国が変わった？",
+            "ブロックされた地域（香港/中国）から接続していますか？"
           ]
         }
       },
@@ -252,12 +252,12 @@
           {
             "code": "4e-63 / 4f-63",
             "title": "Connection Issue",
-            "description": "このエラーは不安定や弱いネットか、それかピアツーピアのVPNが干渉しているかを示しています。これらを無効化してもう一度試してみてください。"
+            "description": "このエラーは不安定や弱いネット環境か、それかピアツーピアのVPNが干渉していることを示しています。これらを無効化してもう一度試してみてください。"
           },
           {
             "code": "G-26",
             "title": "HWID Mismatch",
-            "description": "このエラーは何によって引き起こされるのかまだ分かっていません、ですがHWIDをリセットすることで直せます。必要ならサポートチケットを開いてください。"
+            "description": "このエラーは何によって引き起こされるのかまだ分かっていません、HWIDをリセットすることで直せます。必要ならサポートチケットを開いてください。"
           }
         ]
       },
@@ -270,19 +270,19 @@
         },
         "recommended": {
           "title": "おすすめ",
-          "badge": "あれば良い",
+          "badge": "推奨",
           "sodium": "パフォーマンス",
-          "accountSwitcher": "ゲーム内アカウント切り替え",
+          "accountSwitcher": "ゲーム内アカウントスイッチャー",
           "accountSwitcherTooltip": "Discordに入って限定のカスタムバージョンを手に入れてください"
         },
         "incompatible": {
           "title": "非互換",
-          "badge": "使わないで"
+          "badge": "非対応"
         },
         "unsupportedLaunchers": {
-          "title": "サポートされていないランチャー",
-          "badge": "サポートされていない",
-          "description": "この中のランチャーはサポートされていません。私達の公式ランチャーか互換性のあるランチャーを使ってください。"
+          "title": "サポート外のランチャー",
+          "badge": "未対応",
+          "description": "このランチャーは動作保証されていません。私達の公式ランチャーか互換性のあるランチャーを使ってください。"
         }
       },
       "faq": {
@@ -290,7 +290,7 @@
         "description": "よくある質問",
         "questions": {
           "olderVersions": {
-            "q": "どうやったらOpalを古いサーバーで使える？",
+            "q": "どうやったらOpalを古いサーバーで使えますか？",
             "a": "{link}を使ってください。"
           }
         }
@@ -298,7 +298,7 @@
     },
     "changelog": {
       "title": "更新ログ",
-      "description": "最新バージョンのOpalに何が追加されたか確認しましょう！",
+      "description": "最新版のOpalに何が追加されたか確認しましょう！",
       "opalLauncher": "Opalランチャー",
       "opal": "Opal",
       "launcherBadge": "ランチャー",
@@ -329,7 +329,7 @@
         "continue": "続ける"
       },
       "success": {
-        "title": "おめでとう!",
+        "title": "おめでとうございます!",
         "description": "Opalへのアクセスが認められました。 <br />ようこそ！",
         "dashboard": "ダッシュボードへ進む"
       },
@@ -351,7 +351,7 @@
       "nameLabel": "名前",
       "namePlaceholder": "{name}の素晴らしいコンフィグ",
       "descriptionLabel": "説明",
-      "descriptionPlaceholder": "このコンフィグは何のため？共有したいメモがあれば追加してください。",
+      "descriptionPlaceholder": "このコンフィグは何のためですか？共有したいメモがあれば追加してください。",
       "saveChanges": "変更を保存",
       "copyCommand": "ロードコマンドをコピー",
       "copiedToast": "コマンドをクリップボードにコピーしました！",
@@ -361,12 +361,12 @@
       "chooseConfig": "公開するコンフィグを選択",
       "publishNew": "新しいコンフィグとして公開",
       "clone": "非公開のコンフィグに複製",
-      "cloneTitle": "本当にそれでいい？",
+      "cloneTitle": "本当にそれでいいですか？",
       "cloneDescription": "あなたはこのコンフィグを自分の非公開のコンフィグとして複製しようとしています。",
       "cancel": "中断",
       "continue": "続行",
       "delete": "削除",
-      "deleteTitle": "本当にそれでいい？",
+      "deleteTitle": "本当にそれでいいですか？",
       "deleteDescription": "{name} ({id}) は関連するすべてのデータとともに永久に削除されます。この操作は取り消せません。",
       "changesSaved": "変更が保存されました！"
     }
@@ -385,7 +385,7 @@
         "description": "これはあなたのアカウントに関連付けられているユーザー名です。",
         "toast": "ユーザー名が変更されました！",
         "cooldown": "ユーザーネームが再び変更できるようになるまで: {time}.",
-        "requirements": "ユーザー名は1 ~ 24までの間にしないといけません",
+        "requirements": "ユーザー名は1 ~ 24までの間に設定しないといけません",
         "save": "変更を保存"
       },
       "email": {
@@ -398,21 +398,21 @@
       "title": "接続",
       "card": {
         "title": "接続",
-        "description": "他のサービスとあなたのアカウントをリンクして追加の機能にアクセス",
+        "description": "他のサービスとあなたのアカウントを紐づけして追加の機能にアクセスできるようにしましょう！",
         "connected": "接続済み",
         "ago": "前",
-        "requiresSetup": "セットアップが必要",
+        "requiresSetup": "初期設定が必要",
         "notConnected": "未接続",
         "disconnect": "切断",
         "connect": "接続",
         "connectSpotify": "Spotifyに接続",
         "setup": "セットアップ",
         "spotify": {
-          "title": "Spotifyの統合をセットアップ",
-          "description": "統合を有効化するにはあなたのSpotify appを作らないといけません。これはSpotifyのAPI制限が原因です",
-          "instructions": "指示:",
+          "title": "Spotifyとの連携を設定",
+          "description": "連携を有効化するにはあなたのSpotifyアプリを作成しないといけません。これはSpotifyのAPI制限が原因です",
+          "instructions": "手順:",
           "step1": "{link}をクリック",
-          "step2": "新しいアプリを作る(任意の名前/説明)",
+          "step2": "新しいアプリを作る(名前や説明はお好みで)",
           "step3": "このリダイレクトURIをアプリの設定に追加:",
           "copied": "コピーしました！",
           "clientId": "クライアントID",
@@ -517,8 +517,8 @@
     }
   },
   "reseller": {
-    "title": "再販業者の統計",
-    "description": "各再販業者の主要な使用統計を表示する。",
+    "title": "代理業者の統計",
+    "description": "各代理業者の主要な使用統計を表示する。",
     "total": "全体",
     "used": "使用済み",
     "available": "利用可能"
@@ -529,7 +529,7 @@
     "nav": {
       "overview": "概要",
       "users": "ユーザー",
-      "resellers": "再販業者",
+      "resellers": "代理業者",
       "keys": "キー",
       "media": "メディア",
       "payments": "支払い方法"
@@ -554,8 +554,8 @@
     "overview": {
       "totalKeysGenerated": "生成されたキーの総数",
       "usersInNetwork": "ネットワーク内のユーザー",
-      "withKeysFrom": "{count} の再販業者からのキー",
-      "withKeysFromPlural": "{count} の各再販業者からのキー",
+      "withKeysFrom": "{count} の代理業者からのキー",
+      "withKeysFromPlural": "{count} の各代理業者からのキー",
       "mediaKeysThisMonth": "今月のメディアキー",
       "amountOwed": "未払い金額",
       "networkInfo": "ネットワーク情報",
@@ -565,25 +565,25 @@
       "mediaKeyPrefix": "メディアキーのプレフィックス",
       "yourPermissions": "あなたの権限",
       "generateKeys": "キーを生成",
-      "manageResellers": "再販業者を管理",
+      "manageResellers": "代理業者を管理",
       "manageMedia": "メディアを管理",
       "viewUsers": "ユーザーを見る",
-      "resellers": "再販業者",
-      "noResellersYet": "このネットワークには再販業者たちはいません。"
+      "resellers": "代理業者",
+      "noResellersYet": "このネットワークには代理業者たちはいません。"
     },
     "users": {
       "title": "ユーザー",
       "count": "このネットワークには{count}人のユーザーがいます",
       "countPlural": "このネットワークには{count}人のユーザーたちがいます",
       "noUsersYet": "このネットワークにユーザーは見つかりませんでした",
-      "noResellersFirst": "このネットワークには再販業者はありません。先に再販業者を追加してユーザーを見る。",
+      "noResellersFirst": "このネットワークには代理業者はありません。先に代理業者を追加してユーザーを見る。",
       "searchPlaceholder": "名前かメールで検索...",
-      "allResellers": "全ての再販業者",
+      "allResellers": "全ての代理業者",
       "noMatchFilters": "指定した条件に一致するユーザーはいません。",
       "never": "決して",
       "table": {
         "user": "ユーザー",
-        "reseller": "再販業者",
+        "reseller": "代理業者",
         "key": "キー",
         "hwid": "HWID",
         "registered": "登録済み",
@@ -617,14 +617,14 @@
       }
     },
     "resellers": {
-      "title": "再販業者",
-      "count": "このネットワークには{count}人の再販業者がいます",
-      "countPlural": "このネットワークには{count}人の再販業者たちがいます",
-      "addReseller": "再販業者を追加",
-      "noResellersYet": "再販業者がいません。最初の再販業者を追加してキーを生成しよう。",
+      "title": "代理業者",
+      "count": "このネットワークには{count}人の代理業者がいます",
+      "countPlural": "このネットワークには{count}人の代理業者たちがいます",
+      "addReseller": "代理業者を追加",
+      "noResellersYet": "代理業者がいません。最初の代理業者を追加してキーを生成しよう。",
       "viewStore": "ストアを見る",
       "table": {
-        "reseller": "再販業者",
+        "reseller": "代理業者",
         "prefix": "プレフィックス",
         "keys": "キー",
         "users": "ユーザー",
@@ -634,34 +634,34 @@
         "inactive": "無効"
       },
       "create": {
-        "title": "再販業者を追加",
-        "description": "あなたのネットワークに再販業者を追加。プレフィックスはキーの生成に使われます。",
+        "title": "代理業者を追加",
+        "description": "あなたのネットワークに代理業者を追加。プレフィックスはキーの生成に使われます。",
         "name": "名前",
-        "namePlaceholder": "再販業者の名前",
+        "namePlaceholder": "代理業者の名前",
         "prefix": "キーのプレフィックス",
         "prefixPlaceholder": "例: HHKW",
         "prefixHint": "2-10文字の大文字でアルファベットか数字。キーは: PREFIX-XXXXXXXXXXXX",
         "storeUrl": "URLを保存(任意)",
         "storeUrlPlaceholder": "https://...",
         "description_field": "説明(任意)",
-        "descriptionPlaceholder": "説明は公開の再販業者ページに載せられます...",
+        "descriptionPlaceholder": "説明は公開の代理業者ページに載せられます...",
         "contactInfo": "連絡先(任意)",
         "contactInfoPlaceholder": "WeChat, QQ, Discordなど",
-        "submit": "再販業者を追加",
-        "success": "再販業者が追加されました",
-        "error": "再販業者を追加するのに失敗しました"
+        "submit": "代理業者を追加",
+        "success": "代理業者が追加されました",
+        "error": "代理業者を追加するのに失敗しました"
       },
       "edit": {
-        "title": "再販業者を編集",
+        "title": "代理業者を編集",
         "description": "{name}の詳細を更新。",
         "submit": "変更を保存",
-        "success": "再販業者を更新しました",
-        "error": "再販業者を更新するのに失敗しました"
+        "success": "代理業者を更新しました",
+        "error": "代理業者を更新するのに失敗しました"
       },
       "delete": {
         "confirm": "\"{name}\"を削除しますか？この操作は取り消せません",
-        "success": "再販業者を削除しました",
-        "error": "再販業者を削除するのに失敗しました"
+        "success": "代理業者を削除しました",
+        "error": "代理業者を削除するのに失敗しました"
       }
     },
     "keys": {
@@ -670,17 +670,17 @@
       "countPlural": "ネットワークに{count}個のキー",
       "stats": "{total} 全体 • {used} 有効化済み • {unused} 未使用",
       "noKeysYet": "キーがありません",
-      "noResellersFirst": "このネットワークに再販業者がいません。先に再販業者を追加してキーを生成してください。",
+      "noResellersFirst": "このネットワークに代理業者がいません。先に代理業者を追加してキーを生成してください。",
       "generateKeys": "キーを生成",
       "copyUnusedKeys": "未使用のキーをコピー",
-      "allResellers": "全ての再販業者",
+      "allResellers": "全ての代理業者",
       "allKeys": "全てのキー",
       "unusedOnly": "未使用のみ",
       "usedOnly": "使用済みのみ",
       "noMatchFilters": "フィルターに一致するキーはありません。",
       "table": {
         "key": "キー",
-        "reseller": "再販業者",
+        "reseller": "代理業者",
         "status": "ステータス",
         "created": "作成",
         "redeemed": "有効化済み",
@@ -695,9 +695,9 @@
       },
       "generate": {
         "title": "キーを生成",
-        "description": "再販業者のためにキーを生成する。",
-        "reseller": "再販業者",
-        "resellerPlaceholder": "再販業者を選択",
+        "description": "代理業者のためにキーを生成する。",
+        "reseller": "代理業者",
+        "resellerPlaceholder": "代理業者を選択",
         "count": "キーの数",
         "countPlaceholder": "1-100",
         "submit": "キーを生成",
@@ -961,7 +961,7 @@
       },
       "confirmClose": "バグ報告を閉じますか？",
       "confirmInvalid": "不明にマークしますか？",
-      "confirmDelete": "本当にそれでいいですか？この操作はバグ報告永久に削除します。"
+      "confirmDelete": "本当にそれでいいですか？この操作はバグ報告を永久に削除します。"
     }
   }
 }
