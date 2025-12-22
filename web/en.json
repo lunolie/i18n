@@ -963,5 +963,43 @@
       "confirmInvalid": "Mark as invalid?",
       "confirmDelete": "Are you absolutely sure? This will delete the bug report permanently."
     }
+  },
+  "relations": {
+    "title": "Relations",
+    "add": {
+      "button": "Add Relation",
+      "title": "Add Relationship",
+      "description": "Add a friend or enemy to your list. This will affect how they appear in-game.",
+      "type": "Relationship Type",
+      "user_type": "User Type",
+      "submit": "Add Relationship",
+      "submitting": "Adding...",
+      "success": "Relationship added successfully",
+      "error": "Failed to add relationship"
+    },
+    "types": {
+      "friend": "Friend",
+      "enemy": "Enemy",
+      "opal": "Opal User",
+      "minecraft": "Minecraft"
+    },
+    "inputs": {
+      "minecraft_placeholder": "Notch",
+      "opal_placeholder": "username",
+      "minecraft_label": "Username / UUID",
+      "opal_label": "Config Username"
+    },
+    "list": {
+      "empty": "No relationships found. Add some friends or enemies to get started!",
+      "remove_success": "Relationship removed",
+      "remove_error": "Failed to remove relationship",
+      "unknown": "Unknown"
+    },
+    "errors": {
+      "opal_not_found": "Opal user not found",
+      "self_add": "Cannot add yourself",
+      "minecraft_not_found": "Minecraft user not found",
+      "exists": "Relationship already exists"
+    }
   }
 }
