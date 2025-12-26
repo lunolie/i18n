@@ -963,5 +963,43 @@
       "confirmInvalid": "Czy oznaczyć jako nieprawidłowe?",
       "confirmDelete": "Czy jesteś absolutnie pewien? To trwale usunie zgłoszenie błędu."
     }
+  },
+  "relations": {
+  "title": "Relacje",
+    "add": {
+      "button": "Dodaj relację",
+      "title": "Dodaj nową relację",
+      "description": "Dodaj znajomego lub wroga do swojej listy. Wpłynie to na sposób, w jaki będą wyświetlani w grze.",
+      "type": "Typ relacji",
+      "user_type": "Typ użytkownika",
+      "submit": "Dodaj relację",
+      "submitting": "Dodawanie...",
+      "success": "Pomyślnie dodano relację",
+      "error": "Nie udało się dodać relacji"
+    },
+    "types": {
+      "friend": "Znajomy",
+      "enemy": "Wróg",
+      "opal": "Użytkownik Opal",
+      "minecraft": "Minecraft"
+    },
+    "inputs": {
+      "minecraft_placeholder": "Notch",
+      "opal_placeholder": "nazwa_użytkownika",
+      "minecraft_label": "Nazwa użytkownika / UUID",
+      "opal_label": "Nazwa użytkownika w konfiguracji"
+    },
+    "list": {
+      "empty": "Nie znaleziono żadnych relacji. Dodaj znajomych lub wrogów, aby zacząć!",
+      "remove_success": "Relacja została usunięta",
+      "remove_error": "Nie udało się usunąć relacji",
+      "unknown": "Nieznany"
+    },
+    "errors": {
+      "opal_not_found": "Nie znaleziono użytkownika Opal",
+      "self_add": "Nie możesz dodać samego siebie",
+      "minecraft_not_found": "Nie znaleziono użytkownika Minecraft",
+      "exists": "Taka relacja już istnieje"
+    }
   }
 }
