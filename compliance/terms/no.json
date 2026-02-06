@@ -1,1 +1,59 @@
-
+{
+  "title": "Bruksvilkår",
+  "effectiveDate": "1. mai 2025",
+  "sections": [
+    {
+      "title": "1. Introduksjon",
+      "content": "Disse bruksvilkårene (\"Vilkår\") regulerer din tilgang til og bruk av tjenestene levert av Opal x Terminus, tilgjengelig på https://opalxterminus.com. Ved å få tilgang til eller bruke våre tjenester, samtykker du i å være bundet av disse vilkårene og forstår at du er ansvarlig for å overholde gjeldende lokale lover. Dersom du er uenig i vilkårene, er du forhindret fra å bruke våre tjenester."
+    },
+    {
+      "title": "2. Bruk av tjenestene",
+      "content": [
+        "Du samtykker i å bruke våre tjenester kun til lovlige formål og i samsvar med disse vilkårene.",
+        "Du skal ikke bruke tjenestene på en måte som kan deaktivere, overbelaste, skade eller forringe tjenesten eller forstyrre andres bruk av tjenesten.",
+        "Du skal ikke forsøke å få uautorisert tilgang til noen tjenester, datasystemer eller nettverk tilknyttet Opal.",
+        "Botting, DDoS-angrep eller simulering av menneskelig interaksjon med noen komponenter eller tilknyttede tjenester hos Opal er strengt forbudt. Slike handlinger vil føre til terminering av kontoen din og ytterligere konsekvenser.",
+        "Uautoriserte aktiviteter som lekkasjer, svindel, cracking, manipulering, tukling, reverse-engineering, videresalg, redistribusjon eller deling av produkter eller data funnet på Opal er strengt forbudt. Slike handlinger kan føre til permanent suspensjon av kontoen din, tilbakekalling av kjøpene dine, DMCA-krav og svartelisting av identifiserbar informasjon og betalingsopplysninger på tvers av Opal og tilknyttede tjenester."
+      ]
+    },
+    {
+      "title": "3. Lisensiering",
+      "content": [
+        "Med mindre annet er oppgitt, eier Opal og/eller dets lisensgivere de immaterielle rettighetene til alt materiale på Opal. Alle immaterielle rettigheter er forbeholdt. Du kan få tilgang til materialet på Opal for personlig bruk, underlagt begrensningene fastsatt i disse vilkårene.",
+        "Med mindre du har fått uttrykkelig tillatelse fra Opal og/eller dets lisensgivere:",
+        "Du kan ikke republisere materiale fra Opal.",
+        "Du kan ikke redistribuere innhold fra Opal.",
+        "Du kan ikke selge, leie eller underlisensiere materiale fra Opal.",
+        "Du kan ikke reprodusere, duplisere eller kopiere materiale fra Opal."
+      ]
+    },
+    {
+      "title": "4. Brukerkontoer",
+      "content": "Når du oppretter en Opal-konto, må du til enhver tid gi nøyaktig, fullstendig og oppdatert informasjon. Unnlatelse av dette utgjør et brudd på Opals bruksvilkår og kan føre til umiddelbar terminering av kontoen din."
+    },
+    {
+      "title": "5. Refusjonspolicy",
+      "content": "Refusjoner er ikke tillatt med mindre annet er uttrykkelig oppgitt. Dersom du forsøker å initiere en uredelig betalingsinnsigelse, vil tilgangen til produktet ditt bli umiddelbart tilbakekalt, og kontoen din vil bli permanent suspendert. Ved kjøp av et produkt på Opal fraskriver du deg frivillig retten til å bestride betalingen."
+    },
+    {
+      "title": "6. Endringer i tjenesten og priser",
+      "content": "Vi forbeholder oss retten til når som helst å endre eller avvikle tjenesten (eller deler av den), midlertidig eller permanent, med eller uten varsel. Prisene på alle tjenester kan endres uten forhåndsvarsel."
+    },
+    {
+      "title": "7. Oppsigelse",
+      "content": "Vi kan avslutte eller suspendere tilgangen til tjenesten umiddelbart, uten forhåndsvarsel eller ansvar, av hvilken som helst grunn, inkludert, men ikke begrenset til, brudd på disse vilkårene."
+    },
+    {
+      "title": "8. Informasjonskapsler",
+      "content": "Vi benytter informasjonskapsler (cookies). Ved å bruke Opal samtykker du til bruk av informasjonskapsler i samsvar med vår personvernerklæring. De fleste interaktive nettsteder bruker informasjonskapsler for å hente brukeropplysninger ved hvert besøk. Informasjonskapsler brukes for å sikre tilgang til enkelte deler av nettstedet. Vi bruker ikke informasjonskapsler til andre formål."
+    },
+    {
+      "title": "9. Endringer i vilkårene",
+      "content": "Vi forbeholder oss retten til, etter eget skjønn, å endre eller erstatte disse vilkårene når som helst."
+    },
+    {
+      "title": "10. Kontakt oss",
+      "content": "Dersom du har spørsmål om disse vilkårene, kan du kontakte oss via e-post på support@mail.opalxterminus.com. Vi vil gjøre vårt beste for å svare så raskt som mulig."
+    }
+  ]
+}
