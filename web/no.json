@@ -1,1 +1,120 @@
-
+{
+  "nav": {
+    "home": "Hjem",
+    "purchase": "Kjøp",
+    "discord": "Discord",
+    "dashboard": "Kontrollpanel",
+    "manage": "Administrer"
+  },
+  "home": {
+    "hero": {
+      "texts": [
+        { "before": "Dominer spillet med", "after": "." },
+        { "before": "Så bra at konkurrenter later som de er", "after": "." },
+        { "before": "Den originale. Den beste. Alltid", "after": "." },
+        { "before": "Hvorfor nøye seg med kopier når du har", "after": "?" },
+        { "before": "Imitasjon er smigrende. Eksellens er", "after": "." }
+      ],
+      "brand": "Opal Client",
+      "description": "En premium Minecraft-utility-mod bygget for best mulig opplevelse. Opal støtter for øyeblikket Fabric for Minecraft 1.21.10, og gir en jevn og behagelig opplevelse på både 1.8- og nyeste-versjonsservere.",
+      "purchase": "Kjøp",
+      "learnMore": "Les mer"
+    },
+    "features": {
+      "title": "Hvorfor velge Opal?",
+      "subtitle": "Med vårt omfattende funksjonssett vil du aldri ønske å gå tilbake til en annen klient.",
+      "items": {
+        "abundant": {
+          "title": "Funksjonsrik",
+          "description": "Opal har et stort antall moduler med mange tilpasningsmuligheter."
+        },
+        "userFriendly": {
+          "title": "Brukervennlig",
+          "description": "Opal er designet for å være enkel å bruke. Installer og du er klar!"
+        },
+        "updates": {
+          "title": "Hyppige oppdateringer",
+          "description": "Vi leverer jevnlige oppdateringer for å holde deg oppdatert med nye funksjoner."
+        },
+        "compatibility": {
+          "title": "Universell kompatibilitet",
+          "description": "Opal er testet på Windows, macOS og Linux."
+        },
+        "trusted": {
+          "title": "Stolt på av tusenvis",
+          "description": "Opal utvikles av ledende utviklere med mange års erfaring."
+        },
+        "quality": {
+          "title": "Premium kvalitet",
+          "description": "Vi bryr oss om brukerne våre og streber etter å gjøre klienten best mulig."
+        }
+      }
+    },
+    "media": {
+      "title": "Media",
+      "subtitle": "Sjekk ut noen videoer laget av fellesskapet vårt!"
+    },
+    "cta": {
+      "title": "Løft Minecraft-opplevelsen din. Reisen starter her.",
+      "button": "Kjøp nå"
+    }
+  },
+  "purchase": {
+    "header": {
+      "title": "Velg utgave",
+      "subtitle": "Kjøp Opal alene, eller lås opp full opplevelse med Terminus og få Opal gratis inkludert."
+    },
+    "chinaBanner": {
+      "text": "Er du i Kina? Kjøp fra våre offisielle forhandlere for bedre støtte og betalingsalternativer.",
+      "link": "Se forhandlere"
+    },
+    "opal": {
+      "title": "Opal Client",
+      "price": "8.99",
+      "currency": "USD",
+      "description": "Den essensielle hybride Minecraft-utility-klienten. Ren, lett og usynlig.",
+      "featuresTitle": "Dette er inkludert",
+      "features": [
+        "Opal Client (livstid)",
+        "Alle fremtidige oppdateringer",
+        "Tilgang til Discord-support"
+      ],
+      "button": "Kjøp Opal",
+      "paymentMethods": "Kort, Apple Pay, Google Pay, Klarna, CashApp, WeChat Pay"
+    },
+    "terminus": {
+      "badge": "Best verdi",
+      "title": "Terminus: Minigame Edition",
+      "price": "45.00",
+      "currency": "USD",
+      "description": "Den ultimate minigame-klienten. Inkluderer Opal Client gratis for livet.",
+      "featuresTitle": "Dette er inkludert",
+      "features": [
+        "Terminus: Minigame Edition (livstid)",
+        "Opal Client inkludert GRATIS (livstid)",
+        "Alle fremtidige oppdateringer",
+        "Tilgang til Discord-support",
+        "Prioritert support"
+      ],
+      "button": "Kjøp Terminus-pakken",
+      "paymentMethods": "Kort, Apple Pay, Google Pay, Klarna, CashApp, WeChat Pay"
+    },
+    "crypto": {
+      "title": "Betale med krypto?",
+      "description": "Åpne en ticket i Discord for betaling med USDT, BTC, ETH, LTC eller XMR."
+    },
+    "upgrade": {
+      "title": "Eksisterende Opal-bruker?",
+      "description": "Oppgrader til Terminus for kun 25.99 USD. Åpne en ticket for å kreve."
+    },
+    "terms": "Ved kjøp godtar du våre bruksvilkår. Alle salg er endelige. Livstid betyr produktets levetid."
+  },
+  "footer": {
+    "copyright": "Opal × Terminus. Alle rettigheter forbeholdt.",
+    "terms": "Bruksvilkår",
+    "privacy": "Personvernerklæring"
+  },
+  "banner": {
+    "text": "Høytidssalg: Bruk koden HOLIDAY10 for 10 % rabatt frem til 31. desember"
+  }
+}
