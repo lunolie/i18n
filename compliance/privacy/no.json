@@ -1,1 +1,45 @@
-
+{
+  "title": "Personvernerklæring",
+  "effectiveDate": "Mai 1, 2025",
+  "sections": [
+    {
+      "title": "1. Introduksjon",
+      "content": "Denne personvernerklæringen beskriver praksisen for innsamling, bruk og deling av informasjonen din via nettstedet og relaterte tjenester levert av Opal x Terminus, tilgjengelig på https://opalxterminus.com."
+    },
+    {
+      "title": "2. Informasjon Vi Samler Inn",
+      "content": [
+        "Personopplysninger: Brukernavn, e-postadresse, IP-adresse, brukeragent og betalingsinformasjon dersom du kjøper en Opal-tjeneste direkte.",
+        "Ikke-personlige opplysninger: Vi bruker informasjonskapsler (cookies) for å forbedre opplevelsen din på nettstedet vårt."
+      ]
+    },
+    {
+      "title": "3. Formål med datainnsamling",
+      "content": "Hovedformålet med å samle inn personopplysninger er brukeridentifikasjon og autentisering. Dette sikrer at vi trygt kan gi deg tilgang til og la deg benytte våre tjenester."
+    },
+    {
+      "title": "4. Deling av data",
+      "content": "Av natur kan vi dele informasjonen din med tredjepartsleverandører vi benytter for å drifte Opal, for eksempel betalingsleverandører og e-posttjenester. Vi kan også dele informasjonen din med andre utviklere av Opal dersom du har fått tilgang til den aktuelle programvaren. Vi deler, selger, leier eller utleverer ikke personopplysningene dine til andre tredjeparter."
+    },
+    {
+      "title": "5. Sikkerhet for personopplysninger",
+      "content": "Vi iverksetter rimelige tiltak for å beskytte personopplysningene dine mot uautorisert tilgang, bruk eller utlevering. Ingen metode for overføring over internett eller elektronisk lagring er imidlertid 100 % sikker, og vi kan derfor ikke garantere absolutt sikkerhet. Vi kan utlevere informasjonen din dersom dette kreves ved lov eller som svar på rettskjennelser eller stevninger. Vi kan også utlevere informasjon for å etterforske eller forhindre svindel, eller for å beskytte rettighetene, eiendommen eller sikkerheten til Opal, våre utviklere eller andre."
+    },
+    {
+      "title": "6. Lagring av data",
+      "content": "Vi lagrer personopplysningene dine så lenge det er nødvendig for å levere tjenestene du har bedt om, eller for andre viktige formål som å overholde juridiske forpliktelser, løse tvister og håndheve våre retningslinjer. Dersom du ønsker å slette kontoen din, kan du kontakte oss via support-e-posten oppført nedenfor.."
+    },
+    {
+      "title": "7. Barns personvern",
+      "content": "Vi er forpliktet til å beskytte barns personvern. Vi samler ikke bevisst inn eller ber om personopplysninger fra personer under 13 år. Dersom du er under 13 år, må du ikke forsøke å bruke Opal eller sende oss personopplysninger om deg selv."
+    },
+    {
+      "title": "8. Endringer i denne erklæringen",
+      "content": "Fra tid til annen kan vi oppdatere denne personvernerklæringen med eller uten forhåndsvarsel. Vi oppfordrer deg til jevnlig å gjennomgå erklæringen for å holde deg oppdatert om hvordan informasjonen din behandles."
+    },
+    {
+      "title": "9. Kontakt oss",
+      "content": "Dersom du har spørsmål om denne personvernerklæringen, eller ønsker å utøve dine rettigheter knyttet til personopplysninger, kan du kontakte oss på support@mail.opalxterminus.com. Vi vil gjøre vårt beste for å svare så raskt som mulig."
+    }
+  ]
+}
